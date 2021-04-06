@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-topic/static/css/main.68c590e5.chunk.css",
+    "main.js": "/react-topic/static/js/main.19081323.chunk.js",
+    "main.js.map": "/react-topic/static/js/main.19081323.chunk.js.map",
+    "runtime-main.js": "/react-topic/static/js/runtime-main.933a4137.js",
+    "runtime-main.js.map": "/react-topic/static/js/runtime-main.933a4137.js.map",
+    "static/css/2.41fe795a.chunk.css": "/react-topic/static/css/2.41fe795a.chunk.css",
+    "static/js/2.e3b90290.chunk.js": "/react-topic/static/js/2.e3b90290.chunk.js",
+    "static/js/2.e3b90290.chunk.js.map": "/react-topic/static/js/2.e3b90290.chunk.js.map",
+    "static/js/3.0add49c0.chunk.js": "/react-topic/static/js/3.0add49c0.chunk.js",
+    "static/js/3.0add49c0.chunk.js.map": "/react-topic/static/js/3.0add49c0.chunk.js.map",
+    "index.html": "/react-topic/index.html",
+    "static/css/2.41fe795a.chunk.css.map": "/react-topic/static/css/2.41fe795a.chunk.css.map",
+    "static/css/main.68c590e5.chunk.css.map": "/react-topic/static/css/main.68c590e5.chunk.css.map",
+    "static/js/2.e3b90290.chunk.js.LICENSE.txt": "/react-topic/static/js/2.e3b90290.chunk.js.LICENSE.txt",
+    "static/media/campaignIndex.scss": "/react-topic/static/media/goldenTriangle.c74b748d.png",
+    "static/media/indexVideo.d3a08e9f.mp4": "/react-topic/static/media/indexVideo.d3a08e9f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.933a4137.js",
+    "static/css/2.41fe795a.chunk.css",
+    "static/js/2.e3b90290.chunk.js",
+    "static/css/main.68c590e5.chunk.css",
+    "static/js/main.19081323.chunk.js"
+  ]
+}
