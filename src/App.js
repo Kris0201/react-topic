@@ -99,9 +99,6 @@ function App() {
             {/* <ThemeContext.Provider value={themeNow}> */}
 
             <Switch>
-              <Route exact path="/">
-                <MainPage />
-              </Route>
               <Route path="/mainproduct">
                 <MainProduct />
               </Route>
@@ -193,6 +190,10 @@ function App() {
               {/* <Route path="*">
                 <NotFoundPage />
               </Route> */}
+
+              <Route path="/">
+                <MainPage />
+              </Route>
             </Switch>
             {/* </ThemeContext.Provider> */}
             {/* end 匹配路由表 */}
