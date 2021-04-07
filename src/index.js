@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals'
 // 第一步：匯入createStore, combineReducers
 import { createStore, combineReducers } from 'redux'
 
-// 
+//
 import { Provider } from 'react-redux'
 
 // 第二步：寫出reducer

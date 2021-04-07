@@ -190,9 +190,9 @@ function App() {
                 <StudioIntro3 textInput={textInput} />
               </Route>
 
-              <Route path="*">
+              {/* <Route path="*">
                 <NotFoundPage />
-              </Route>
+              </Route> */}
             </Switch>
             {/* </ThemeContext.Provider> */}
             {/* end 匹配路由表 */}
