@@ -1,3 +1,24 @@
+## 前言
+嗨，我是Kris，歡迎來到我的專案Drunken Cake。以下是一些關於本專案的介紹，包含瀏覽前的環境建置與專案說明等。
+
+## 環境建置
+本專案結合前端畫面呈現與後端資料庫資料讀取兩部分，因此請連同node (https://github.com/Kris0201/node) 此專案一併下載，並視需求開啟mySQL資料庫，方能正常使用，詳細開啟專案方式如下：
+
+1. 將本專案與上述提供之node專案一同下載到您的電腦中
+react:  <https://github.com/Kris0201/react-topic.git>
+node： <https://github.com/Kris0201/node.git>
+
+2. 下載好後以vs code(Visual Studio Code)編輯器開啟，並分別於兩個專案的終端機輸入指令
+`npm i`
+
+
+3. 執行完安裝後，若欲看到完整資料庫資料，可至node專案中的"data"資料夾中下載所有sql檔
+
+![image](https://github.com/Kris0201/react-topic/blob/master/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/data-sql.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +60,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
