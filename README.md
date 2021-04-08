@@ -18,7 +18,7 @@ node： <https://github.com/Kris0201/node.git>
 4. 在react專案終端機輸入yarn start指令，在node專案終端機輸入nodemon指令即可開啟靜態頁面。注意，若無建置資料庫，部分頁面(例如「商品列表」與「商品詳細頁」圖片或訊息將無法正常顯示，以下將改以附上說明圖片供參。
 
 *各網頁縮圖*
-![image](https://github.com/Kris0201/react-topic/blob/master/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/%E5%90%84%E7%B6%B2%E9%A0%81%E7%B8%AE%E5%9C%96.pdf)
+![image]()
 
 
 ## 專案介紹
