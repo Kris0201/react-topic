@@ -13,7 +13,7 @@ node： <https://github.com/Kris0201/node.git>
 
 
 3. 執行完安裝後，若欲看到完整資料庫資料，可至node專案中的"data"資料夾中下載所有sql檔；若不需要安裝資料庫，可直接進行步驟4
-![image](https://github.com/Kris0201/react-topic/blob/master/data-sql.png)
+![image](https://github.com/Kris0201/react-topic/blob/master/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/data-sql.png)
 
 4. 在react專案終端機輸入yarn start指令，在node專案終端機輸入nodemon指令即可開啟靜態頁面。注意，若無建置資料庫，部分頁面(例如「商品列表」與「商品詳細頁」圖片或訊息將無法正常顯示，以下將改以附上說明圖片供參。
 
@@ -28,45 +28,4 @@ node： <https://github.com/Kris0201/node.git>
 
 主要的販售商品為結合酒精與蛋糕的商品，同時亦售有其它體驗型商品，例如在「體驗」頁面中的各式諸如手作課程、職人講座。此外，也提供蛋糕教室租借的服務。
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
