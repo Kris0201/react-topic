@@ -12,11 +12,21 @@ node： <https://github.com/Kris0201/node.git>
 `npm i`
 
 
-3. 執行完安裝後，若欲看到完整資料庫資料，可至node專案中的"data"資料夾中下載所有sql檔
+3. 執行完安裝後，若欲看到完整資料庫資料，可至node專案中的"data"資料夾中下載所有sql檔；若不需要安裝資料庫，可直接進行步驟4
+![image](https://github.com/Kris0201/react-topic/blob/master/data-sql.png)
 
-![image](https://github.com/Kris0201/react-topic/blob/master/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/data-sql.png)
+4. 在react專案終端機輸入yarn start指令，在node專案終端機輸入nodemon指令即可開啟靜態頁面。注意，若無建置資料庫，部分頁面(例如「商品列表」與「商品詳細頁」圖片或訊息將無法正常顯示，以下將改以附上說明圖片供參。
 
 
+## 專案介紹
+本專案為多人協作作品，非一己之力完成。我個人主要負責頁面為「商品列表」與「商品詳細頁」，詳細小組分工置於文末，敬請參考。
+
+### 專案名稱: Drunken Cake || 醉糕品味
+
+**簡介**
+本專案是以商品販售為主的網站設計，網站主要由「首頁」、「商品」、「體驗」、「場地租借」和「關於我們」組成。
+
+主要的販售商品為結合酒精與蛋糕的商品，同時亦售有其它體驗型商品，例如在「體驗」頁面中的各式諸如手作課程、職人講座。此外，也提供蛋糕教室租借的服務。
 
 
 # Getting Started with Create React App
